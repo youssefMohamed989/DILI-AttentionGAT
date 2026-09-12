@@ -6,6 +6,8 @@ Code accompanying the manuscript:
 > Correcting Graph Neural Network Attention for Drug-Induced Liver Injury
 > Prediction.* Prepared for submission to the *Journal of Chemical
 > Information and Modeling* (ACS).
+><img width="1386" height="1135" alt="fig 2" src="https://github.com/user-attachments/assets/9c7d5fa9-86b2-4759-9947-8a3d2a94fb35" />
+
 > <img width="1774" height="887" alt="fig" src="https://github.com/user-attachments/assets/aa22d466-6ce0-4221-a4b0-4dcf45bf2b51" />
 
 <img width="1699" height="926" alt="graphical abstract" src="https://github.com/user-attachments/assets/3d6b71f8-b489-42dd-a525-671a8b00c586" />
