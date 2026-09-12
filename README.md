@@ -1,6 +1,8 @@
 # DILI-AttentionGAT
 End-to-end PyTorch pipeline for predicting drug-induced liver injury (DILI) from molecular structure using a custom graph attention network (GAT), with systematic validation of whether learned attention aligns with known hepatotoxicity structural alerts. Includes baselines, deep ensembles, repeated scaffold-split CV, and bootstrap statistics.
 # DILI-GAT: Validating and Correcting Graph Neural Network Attention for Drug-Induced Liver Injury Prediction
+<img width="1699" height="926" alt="graphical abstract" src="https://github.com/user-attachments/assets/7573d2f8-c623-4adc-be63-0fefd2acaa45" />
+
 
 Authors: Youssef M. Hassan (1) (corresponding author), Hala El-Tantawi (1), Ibrahim Rabie Ali (2), Mohamed S. Attia (3)
 
