@@ -3,7 +3,6 @@ End-to-end PyTorch pipeline for predicting drug-induced liver injury (DILI) from
 # DILI-GAT: Validating and Correcting Graph Neural Network Attention for Drug-Induced Liver Injury Prediction
 <img width="1699" height="926" alt="graphical abstract" src="https://github.com/user-attachments/assets/7573d2f8-c623-4adc-be63-0fefd2acaa45" />
 
-
 Authors: Youssef M. Hassan (1) (corresponding author), Hala El-Tantawi (1), Ibrahim Rabie Ali (2), Mohamed S. Attia (3)
 
 (1) Department of Zoology, Faculty of Science, Ain Shams University, Abbassia 11566, Cairo, Egypt
