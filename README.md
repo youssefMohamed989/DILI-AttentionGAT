@@ -11,6 +11,9 @@ Code accompanying the manuscript:
 > <img width="1774" height="887" alt="fig" src="https://github.com/user-attachments/assets/aa22d466-6ce0-4221-a4b0-4dcf45bf2b51" />
 
 <img width="1699" height="926" alt="graphical abstract" src="https://github.com/user-attachments/assets/3d6b71f8-b489-42dd-a525-671a8b00c586" />
+
+<img width="1483" height="1061" alt="fig 3" src="https://github.com/user-attachments/assets/671cd06c-e8a1-4c54-8a38-0c39b6a3943a" />
+
 This repository implements, end to end, the curation, modeling, and
 attention-validation pipeline described in the manuscript: a custom
 PyTorch graph attention network (GAT) for drug-induced liver injury (DILI)
